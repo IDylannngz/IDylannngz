@@ -1,17 +1,16 @@
-# ¡Hi, Im Dylan 👋
+# 👋 Hi, I'm Dylan
 
-## 🔭 About me
-- Estudiante/desarrollador en Desarrollo Web
-- Apasionado por el voley y el mundo de la programacion
-- Buscando colaborar en proyectos open‑source y crecer profesionalmente
+## 🔭 About Me
+- Web development student/developer  
+- Passionate about volleyball and the world of programming  
+- Looking to collaborate on open-source projects and grow professionally  
 
 ## 🛠 Skills
-- **Lenguajes**: JavaScript, Html, CSS, Python
-- **Frameworks**: Node.js, Bootstrap
-- **Herramientas**: Git
+- **Languages**: JavaScript, HTML, CSS, Python  
+- **Frameworks**: Node.js, Bootstrap  
+- **Tools**: Git  
 
-
-## 🛠 Tecnologías y herramientas
+## 🛠 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -24,13 +23,17 @@
 
 ---
 
-## 📊 Estadísticas
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=IDylannngz&layout=compact)
-![Stats generales](https://github-readme-stats.vercel.app/api?username=IDylannngz&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-## 📫 Cómo contactarme
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IDylannngz&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IDylannngz&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
 - 💌 Email: dgnzalez41@gmail.com  
 - 📷 Instagram: [IDylannn_gz](#)
 
-  
-<sub>✨ Hecho con amor por [IDylannngz](https://github.com/IDylannngz) ✨</sub>
+---
+
+<sub>✨ Made with love by [IDylannngz](https://github.com/IDylannngz) ✨</sub>
